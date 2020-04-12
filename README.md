@@ -25,7 +25,7 @@ STM32串口下载软件（FLYMCU）：STM32 串口下载工具
 
 3. PPT 图标下载：[iconfont](https://www.iconfont.cn/)
 
-4. PCD 3D 模型下载：[3dcontentcentral](https://www.3dcontentcentral.cn/Default.aspx)
+4. PCB 3D 模型下载：[3dcontentcentral](https://www.3dcontentcentral.cn/Default.aspx)
 
 
 
